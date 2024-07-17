@@ -1,17 +1,17 @@
 # Projects
-List of links for websites I've built:
+List of links for some of the websites I've built:
 
 
-https://mplsparking.com/ <br>
-https://ochealthsystem.org/
-https://a-1sewerandsepticservice.com/
-https://www.thebugblaster.net/
-https://millersternlawyers.com/
-https://marcuslumber.com/
-https://waukeshadba.com/
-https://dubuquesteelproducts.com/
-https://ridapest.com/
-https://popowskicallasshirley.com/
-https://clmfirm.com/
-https://justinretirement.com/
+https://mplsparking.com <br>
+https://ochealthsystem.org <br>
+https://a-1sewerandsepticservice.com <br>
+https://www.thebugblaster.net <br>
+https://millersternlawyers.com <br>
+https://marcuslumber.com <br>
+https://waukeshadba.com <br>
+https://dubuquesteelproducts.com <br>
+https://ridapest.com <br>
+https://popowskicallasshirley.com <br>
+https://clmfirm.com <br>
+https://justinretirement.com
  
